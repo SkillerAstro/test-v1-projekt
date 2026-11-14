@@ -15,6 +15,7 @@ function setup() {
     // Statischer Boden ('s' = static)
     boden = new Sprite(300, 380, 600, 40, 's');
     boden.color = 'limegreen';
+    print("Hello World")
 }
 
 function update() {
