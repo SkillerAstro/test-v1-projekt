@@ -10,7 +10,7 @@ function setup() {
 
     // Kiste als dynamisches Hindernis
     kiste = new Sprite(300, 200, 50, 50);
-    kiste.color = 'orange';
+    kiste.color = 'yellow';
 
     // Statischer Boden ('s' = static)
     boden = new Sprite(300, 380, 600, 40, 's');
